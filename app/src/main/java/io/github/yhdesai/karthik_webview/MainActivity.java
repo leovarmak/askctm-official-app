@@ -144,9 +144,9 @@ public class MainActivity extends AppCompatActivity
             if (isOnline() == false) {
                 openDialog();
             } else {
-                webView.setWebViewClient(new WebViewClient());
-                webView.loadUrl("http://139.59.14.215/pages/notifications/notifications.html");
                 setTitle("Notifications");
+                webView.setWebViewClient(new WebViewClient());
+                webView.loadUrl(getString(R.string.url) + "notifications/notifications.html");
             }
             return true;
         }
