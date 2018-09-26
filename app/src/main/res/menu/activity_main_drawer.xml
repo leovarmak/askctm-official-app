@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/vision"
+            android:icon="@drawable/vision"
+            android:title="Vision - Mission" />
+
+        <item
+            android:id="@+id/govern"
+            android:icon="@drawable/govern"
+            android:title="Governing Body" />
+
+        <item
+            android:id="@+id/courses"
+            android:icon="@drawable/courses"
+            android:title="Courses" />
+
+        <item
+            android:id="@+id/admission"
+            android:icon="@drawable/fees"
+            android:title="Admission-Fee" />
+
+        <item
+            android:id="@+id/gallery"
+            android:icon="@drawable/gallery"
+            android:title="Gallery" />
+
+        <item
+            android:id="@+id/syllabus"
+            android:icon="@drawable/vision"
+            android:title="Syllabus" />
+
+        <item
+            android:id="@+id/timetable"
+            android:icon="@drawable/govern"
+            android:title="Timetable" />
+
+        <item
+            android:id="@+id/notes"
+            android:icon="@drawable/gallery"
+            android:title="Lecture Notes" />
+
+        <item
+            android:id="@+id/marks"
+            android:icon="@drawable/developers"
+            android:title="Internal Marks" />
+
+        <item
+            android:id="@+id/qp"
+            android:icon="@drawable/developers"
+            android:title="Previous Question Papers" />
+
+        <item
+            android:id="@+id/placements"
+            android:icon="@drawable/placements"
+            android:title="Placements" />
+
+        <item
+            android:id="@+id/faculty"
+            android:icon="@drawable/faculty"
+            android:title="Faculty" />
+
+        <item
+            android:id="@+id/facilities"
+            android:icon="@drawable/facilities"
+            android:title="Facilities" />
+
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/contact"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/developers"
+            android:icon="@drawable/developers"
+            android:title="Developers" />
+
+    </group>
+
+</menu>

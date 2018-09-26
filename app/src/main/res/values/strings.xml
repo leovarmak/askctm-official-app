@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ASKCTM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ASK College of Engineering and Technology</string>
+    <string name="nav_header_subtitle">app@askctm.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="url">http://139.59.14.215/pages/</string>
+    <string name="dialog_text">Please turn on Internet Connection and reopen the app.</string>
+    <string name="dialog_title">This is dialog title</string>
+</resources>
