@@ -36,27 +36,27 @@
 
         <item
             android:id="@+id/syllabus"
-            android:icon="@drawable/vision"
+            android:icon="@drawable/syllabus"
             android:title="Syllabus" />
 
         <item
             android:id="@+id/timetable"
-            android:icon="@drawable/govern"
+            android:icon="@drawable/timetable"
             android:title="Timetable" />
 
         <item
             android:id="@+id/notes"
-            android:icon="@drawable/gallery"
+            android:icon="@drawable/notes"
             android:title="Lecture Notes" />
 
         <item
             android:id="@+id/marks"
-            android:icon="@drawable/developers"
+            android:icon="@drawable/marks"
             android:title="Internal Marks" />
 
         <item
             android:id="@+id/qp"
-            android:icon="@drawable/developers"
+            android:icon="@drawable/qp"
             android:title="Previous Question Papers" />
 
         <item
