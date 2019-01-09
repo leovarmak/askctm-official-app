@@ -5,7 +5,7 @@
     <string name="nav_header_title">ASK College of Engineering and Technology</string>
     <string name="nav_header_subtitle">www.askctm.in</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="url">http://139.59.14.215/pages/</string>
+    <string name="url">http://142.93.222.153/pages/</string>
     <string name="dialog_text">Please turn on Internet Connection and reopen the app.</string>
     <string name="dialog_title">This is dialog title</string>
 </resources>
